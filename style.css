@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+.disply{
+    display: flex;
+    background-image: url(back.PNG);
+    padding-top: 40px;
+
+}
+.half{
+    width: 50%;
+    margin-left: 20px;
+    color: yellow;
+    padding-bottom: 30px;
+    margin-right: 5px;
+}
+.half img{
+    width: 80%;
+    border-radius: 50%;
+}
+.a{
+    color: hsl(0, 100%, 100%);
+    background-image: linear-gradient(red,green);
+    border-radius: 5px;
+    padding: 20px 40px;
+    text-decoration: none;
+
+}
+.noor{
+    color: chartreuse;
+}
+.disply2{
+    display: flex;
+    background-image: url(back2.PNG);
+}
+.p{
+    text-align: center;
+    padding-top: 80px;
+}
